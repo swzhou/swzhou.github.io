@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://swzhou.github.io/sitemap.xml 
